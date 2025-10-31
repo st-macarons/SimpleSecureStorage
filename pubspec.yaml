@@ -1,6 +1,6 @@
-name: st_simple_secure_storage
+name: simple_secure_storage
 publish_to: none
-version: 1.0.0
+version: 1.0.3
 
 environment:
   sdk: ">=3.6.0 <4.0.0"
